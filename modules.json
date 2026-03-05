@@ -1,0 +1,52 @@
+[
+  {
+    "module_code": "ops19_5",
+    "module_label": "OPS 19.5 - Compliance Reporting - Files regulatory report; consists of authority submission record.",
+    "module_title": "Compliance Reporting - Files regulatory report; consists of authority submission record.",
+    "module_slug": "compliance_reporting_files_regulatory_report_consists_of_authority_submission_record",
+    "app_code": "ops19",
+    "app_label": "OPS 19 - Safety Operations Control",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops19_4",
+    "module_label": "OPS 19.4 - Corrective Safety Action - Initiates mitigation; consists of assigned safety task.",
+    "module_title": "Corrective Safety Action - Initiates mitigation; consists of assigned safety task.",
+    "module_slug": "corrective_safety_action_initiates_mitigation_consists_of_assigned_safety_task",
+    "app_code": "ops19",
+    "app_label": "OPS 19 - Safety Operations Control",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops19_1",
+    "module_label": "OPS 19.1 - Incident Reporting - Logs safety event; consists of incident case file.",
+    "module_title": "Incident Reporting - Logs safety event; consists of incident case file.",
+    "module_slug": "incident_reporting_logs_safety_event_consists_of_incident_case_file",
+    "app_code": "ops19",
+    "app_label": "OPS 19 - Safety Operations Control",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops19_2",
+    "module_label": "OPS 19.2 - Risk Assessment - Evaluates hazard; consists of risk scoring matrix record.",
+    "module_title": "Risk Assessment - Evaluates hazard; consists of risk scoring matrix record.",
+    "module_slug": "risk_assessment_evaluates_hazard_consists_of_risk_scoring_matrix_record",
+    "app_code": "ops19",
+    "app_label": "OPS 19 - Safety Operations Control",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops19_3",
+    "module_label": "OPS 19.3 - Safety Inspection - Conducts site check; consists of checklist submission.",
+    "module_title": "Safety Inspection - Conducts site check; consists of checklist submission.",
+    "module_slug": "safety_inspection_conducts_site_check_consists_of_checklist_submission",
+    "app_code": "ops19",
+    "app_label": "OPS 19 - Safety Operations Control",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
